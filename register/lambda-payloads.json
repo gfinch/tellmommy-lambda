@@ -1,0 +1,9 @@
+{
+    "register": {
+        "lambda": {
+            "action": "login",
+            "email": "test@mamabird.biz",
+            "password": "password"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "family": {
+        "lambda": {
+            "action": "setWordsOfAffirmation",
+            "familyId": "676017bb-44dd-4526-a70d-d815cb68dea6",
+            "wordsOfAffirmation": [
+                "Hooray",
+                "Way to go!"
+            ]
+        }
+    }
+}
